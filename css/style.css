@@ -1,67 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300..700&display=swap');
+.restaurant-header {
+            background-color: #765827;
+            padding: 20px;
+            text-align: center;
+        }
 
-body {
-    font-family: "spilen sans", sans-serif;
-    color: #0f0e0e;
-    line-height: 1.7;
-}
-
-h1,h2{
-    font-weight: 600;
-    color: #ffffff;
-}
-
-h1,h2,h3,h4,h5,h6{
-    font-weight: 600;
-    color: #000000;
-}
-a {
-    color: #e01111;
-    text-decoration: none;
-    transition: 0.4s;
-    font-weight: 600;
-}
-
-a:hover {
-    color: #cca423;
-}
-
-img {
-    min-width: 100%;
-}
-
-
-
-/* btn */
-.btn {
-    border-radius: #fff;
-    padding: 14px 38px;
-}
-
-.btn-brand {
-    color: #fff;
-    font-weight: 500;
-    border-color: #cca423;
-    background-color: #cca423;
-}
-
-.btn-brand:hover {
-    border-color: #94781b;
-    background-color: #94781b;
-    color: #fff;
-}
-
-.logo {
-    background-color: #474F44;
-}
-.navbarNav{
-    color: white;
-}
-<<<<<<< HEAD
-=======
-.logo{
-    background-color: #474F44;
-}
-
->>>>>>> 5c117f31a3acb4197d951c5b29ba179599e232a3
-
+.restaurant-img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
